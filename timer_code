@@ -4,7 +4,7 @@
 	<title>Minimalist Pomodoro Timer</title>
 	<style>
 		body {
-			background-color: #9aa895;
+			background-color: #ffcbc4;
 		}
 
 		.timer {
@@ -27,7 +27,7 @@
 		button {
 			font-size: 2rem;
 			color: white;
-			background-color: #4CAF50;
+			background-color: #ffa7a6;
 			padding: 1rem 2rem;
 			border: none;
 			border-radius: 0.5rem;
@@ -36,7 +36,7 @@
 		}
 
 		button:hover {
-			background-color: #3e8e41;
+			background-color: #ef8586;
 		}
 
         .button-container {
@@ -47,7 +47,7 @@
         }
 
         #pomodoro, #short-break, #long-break {
-            background-color: rgba(255, 255, 255, 0.2);
+            background-color: rgba(99, 90, 71, 0.2);
             margin: 0 0.5rem;
         }
 
